@@ -12,7 +12,7 @@
 
 ### OTHER INFORMATION ###
 
-- The folder `grades` has all the CSV files with the information regarding the courses taken in the various semesters. This folder is scanned by the program and its files are indexed. Thus, any files in this folder must be of type "semX.csv", where X is a number that indicates the semester number. Any deviations from this format will break the program.
+- The folder `grades` has all the text files with the information regarding the courses taken in the various semesters. This folder is scanned by the program and its files are indexed. Thus, any files in this folder must be of type "semX.txt", where X is a number that indicates the semester number. Any deviations from this format will break the program.
 - This program uses "Table Formatter v0.1" (https://www.fourthwoods.com/utils/tableformatter/), a small utility whose code is embedded in the source code of this program. This is used for pretty printing tables.
 
 ### AUTHOR ###
